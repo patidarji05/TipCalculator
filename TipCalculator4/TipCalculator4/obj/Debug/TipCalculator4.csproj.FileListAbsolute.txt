@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\TipCalculator4\TipCalculator4\bin\Debug\TipCalculator4.exe.config
+C:\Users\HP\source\repos\TipCalculator4\TipCalculator4\bin\Debug\TipCalculator4.exe
+C:\Users\HP\source\repos\TipCalculator4\TipCalculator4\bin\Debug\TipCalculator4.pdb
+C:\Users\HP\source\repos\TipCalculator4\TipCalculator4\obj\Debug\TipCalculator4.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TipCalculator4\TipCalculator4\obj\Debug\TipCalculator4.Properties.Resources.resources
+C:\Users\HP\source\repos\TipCalculator4\TipCalculator4\obj\Debug\TipCalculator4.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TipCalculator4\TipCalculator4\obj\Debug\TipCalculator4.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TipCalculator4\TipCalculator4\obj\Debug\TipCalculator4.exe
+C:\Users\HP\source\repos\TipCalculator4\TipCalculator4\obj\Debug\TipCalculator4.pdb
+C:\Users\HP\source\repos\TipCalculator4\TipCalculator4\obj\Debug\TipCalculator4.Form1.resources
